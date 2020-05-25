@@ -111,8 +111,8 @@
 # 捐赠
 如果你觉得本站对你有用可扫描下方二维码打赏一下，小小红包就是对我们最大的支持
 
-![](https://icon.qiantucdn.com/20200428/664abd870f0976c96638ba17f4eab25f2)
-![](https://icon.qiantucdn.com/20200428/3fb2f7baea6c1a11e01e1f0cba11e4492)
+<img src="https://icon.qiantucdn.com/20200428/664abd870f0976c96638ba17f4eab25f2" width="45%" height="350" />
+<img src="https://icon.qiantucdn.com/20200428/3fb2f7baea6c1a11e01e1f0cba11e4492" width="45%" height="350" />
 
 # 联系
 * Blog: [https://hei.cm/](https://hei.cm/)
