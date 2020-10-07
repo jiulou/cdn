@@ -89,13 +89,6 @@ textarea {
   resize: vertical;
 }
 
-.post-meta a,
-.post-content a,
-.widget a,
-.comment-content a {
-  /* border-bottom: 1px solid #EEE; */
-}
-
 .post-meta a:hover,
 .post-content a:hover,
 .widget a:hover,
